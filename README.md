@@ -1,1 +1,1 @@
-# DATA-ANALYTICS-PORTFOLIO
+This repository is a central hub for all my data analytics projects, covering SQL, data cleaning, and Looker Studio visualizations. Each project has its own folder with raw/cleaned datasets, SQL queries, and dashboard screenshots or links.
