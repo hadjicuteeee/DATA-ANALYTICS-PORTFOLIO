@@ -1,5 +1,0 @@
-[
-	{
-		"top_customers_json" : "[\n  {\n    \"Name\": \"Abel\",\n    \"Ranking\": 1,\n    \"Total_Spent\": 700.00\n  },\n  {\n    \"Name\": \"Diego\",\n    \"Ranking\": 2,\n    \"Total_Spent\": 660.00\n  },\n  {\n    \"Name\": \"Carlo\",\n    \"Ranking\": 3,\n    \"Total_Spent\": 560.00\n  }\n]"
-	}
-]
