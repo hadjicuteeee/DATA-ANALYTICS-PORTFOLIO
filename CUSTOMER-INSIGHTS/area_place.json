@@ -1,0 +1,68 @@
+area_places_json
+"[
+  {
+    "rank": 1,
+    "location": "Manila",
+    "area_sales": 1310.00
+  },
+  {
+    "rank": 2,
+    "location": "Cebu",
+    "area_sales": 880.00
+  },
+  {
+    "rank": 3,
+    "location": "Laguna",
+    "area_sales": 810.00
+  },
+  {
+    "rank": 4,
+    "location": "Makati",
+    "area_sales": 800.00
+  },
+  {
+    "rank": 5,
+    "location": "Davao",
+    "area_sales": 670.00
+  },
+  {
+    "rank": 6,
+    "location": "Taguig",
+    "area_sales": 510.00
+  },
+  {
+    "rank": 7,
+    "location": "Pasig",
+    "area_sales": 450.00
+  },
+  {
+    "rank": 8,
+    "location": "Quezon City",
+    "area_sales": 430.00
+  },
+  {
+    "rank": 9,
+    "location": "Baguio",
+    "area_sales": 390.00
+  },
+  {
+    "rank": 10,
+    "location": "Cavite",
+    "area_sales": 300.00
+  },
+  {
+    "rank": 11,
+    "location": "Iloilo",
+    "area_sales": 200.00
+  },
+  {
+    "rank": 12,
+    "location": "Caloocan",
+    "area_sales": 120.00
+  },
+  {
+    "rank": 13,
+    "location": "Pasay",
+    "area_sales": 110.00
+  }
+]"
