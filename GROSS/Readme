@@ -1,2 +1,2 @@
-
-THIS REPOSITORY CONTAINS
+This project focuses on cleaning and analyzing concert tour data using Python (Pandas) and PostgreSQL.
+The dataset originally came from Kaggle, which had messy columns and missing values — so I did some data cleaning before loading it into SQL for analysis.
