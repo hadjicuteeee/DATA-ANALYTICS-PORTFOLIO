@@ -1,1 +1,25 @@
+Overview
+This project demonstrates a complete data analysis workflow — from data cleaning and exploration using Python (Pandas), to database creation in PostgreSQL, and finally data visualization in Power BI.
+The dataset used is the Netflix Titles dataset, which contains metadata about movies and TV shows, including their title, director, cast, country, release year, rating, and duration.
+This project aims to understand trends in Netflix content, such as the most active countries, release year patterns, and rating distributions.
 
+🧠 Objectives
+Clean and preprocess raw Netflix data for analysis.
+Explore and analyze the dataset using Pandas.
+Store cleaned data in a PostgreSQL database.
+Visualize insights using Power BI dashboards.
+
+
+
+Tools and Technologies
+Python (Pandas)	- Data cleaning and analysis
+PostgreSQL - Database creation and storage
+pgAdmin	- Database management and data import
+Power BI	- Data visualization and reporting
+📚 Key Learnings
+
+
+Proper data cleaning greatly improves analysis accuracy.
+PostgreSQL requires permission setup for CSV imports on Windows.
+Pandas simplifies complex data analysis tasks.
+Power BI is powerful for connecting databases and building visual dashboards.
