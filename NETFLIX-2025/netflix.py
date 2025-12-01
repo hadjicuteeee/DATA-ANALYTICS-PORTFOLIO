@@ -2,7 +2,6 @@ import pandas as pd
 
 df = pd.read_csv("C:\\Users\\apues\\Downloads\\archive (29).zip")
 
-
 df['director'] = df['director'].replace(r'^\s*$', pd.NA, regex=True).fillna("No Data")
 df['cast'] = df['cast'].replace(r'^\s*$', pd.NA, regex=True).fillna("No Data")
 df['country'] = df['country'].replace(r'^\s*$', pd.NA, regex=True).fillna("No Data")
@@ -21,5 +20,6 @@ df.drop('description', axis=1, inplace=True)
 
 print(df.isnull().sum())
 print(df['duration'])
+
 
 df.to_csv("C:\\Users\\apues\\Downloads\\netflix.cleaned.csv", index=False)
