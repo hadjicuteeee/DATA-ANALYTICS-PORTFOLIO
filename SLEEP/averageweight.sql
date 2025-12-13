@@ -1,0 +1,7 @@
+SELECT * FROM TBLSLEEP;
+
+SELECT 
+    "BMI Category",
+    CONCAT(ROUND(COUNT(*) / SUM(COUNT(*)) OVER() * 100, 2), '%') AS PERCENTAGE
+FROM tblsleep
+GROUP BY "BMI Category";
