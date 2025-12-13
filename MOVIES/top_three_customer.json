@@ -1,0 +1,11 @@
+[
+	{
+		"user_json" : "{\"name\": \"Eva Torres\", \"total_minutes_spent\": 535}"
+	},
+	{
+		"user_json" : "{\"name\": \"Frank White\", \"total_minutes_spent\": 433}"
+	},
+	{
+		"user_json" : "{\"name\": \"Bob Jones\", \"total_minutes_spent\": 422}"
+	}
+]
