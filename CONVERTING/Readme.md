@@ -4,10 +4,10 @@ Description
 This project demonstrates how to convert numeric values stored as strings into integer and numeric (decimal) data types using Python and PostgreSQL. It focuses on SQL type casting techniques executed through a Python application.
 
 Technologies Used
-Python 3
-PostgreSQL
-PyCharm IDE
-psycopg2 (PostgreSQL adapter for Python)
+-Python 3
+-PostgreSQL
+-PyCharm IDE
+-psycopg2 (PostgreSQL adapter for Python)
 
 
 
