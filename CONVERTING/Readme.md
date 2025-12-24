@@ -5,25 +5,21 @@ This project demonstrates how to convert numeric values stored as strings into i
 
 Technologies Used
 -Python 3
+
 -PostgreSQL
+
 -PyCharm IDE
+
 -psycopg2 (PostgreSQL adapter for Python)
-
-
-
-Features
-Connects Python to PostgreSQL using psycopg2
-Demonstrates explicit type casting using CAST
-Demonstrates PostgreSQL shortcut casting using ::
-Converts string values to INTEGER
-Converts string values to NUMERIC (decimal)
-
 
 
 How to Run
 -Open the project in PyCharm.
+
 -Make sure PostgreSQL is running.
+
 -Install psycopg2 if not yet installed:
+
 -pip install psycopg2
 
 
