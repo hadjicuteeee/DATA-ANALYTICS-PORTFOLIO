@@ -1,4 +1,5 @@
 INSERT INTO sales (
+  
 "Order ID","Order Date","Ship Date","Ship Mode",
 "Customer ID","Customer Name",Segment,Country,City,"State",Region,
 "Product ID",Category,"Sub-Category","Product Name",Sales
@@ -105,3 +106,4 @@ INSERT INTO sales (
 ('CA-2018-20083','2018-02-03','2018-02-06','Standard Class','GH-26262','Gina Hall','Consumer','United States','Bakersfield','California','West','OFF-AR-20083','Office Supplies','Art','Paint Set',27.95),
 ('CA-2018-20084','2018-02-04','2018-02-07','Second Class','HI-27272','Hank Ives','Corporate','United States','Modesto','California','West','TEC-AC-20084','Technology','Accessories','Wireless Charger',39.99),
 ('CA-2018-20085','2018-02-05','2018-02-08','Standard Class','IJ-28282','Ivy Johnson','Consumer','United States','Stockton','California','West','OFF-BI-20085','Office Supplies','Binders','Durable Binder',19.85);
+
