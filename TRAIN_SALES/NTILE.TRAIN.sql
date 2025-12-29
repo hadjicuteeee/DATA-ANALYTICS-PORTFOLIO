@@ -8,6 +8,7 @@ SELECT
 FROM sales;
 
 
+
 SELECT "Customer Name",
 		sales,
 		NTILE(4) OVER (ORDER BY sales DESC) as grouping
@@ -20,5 +21,6 @@ FROM SALES
 ORDER BY SALES DESC
 LIMIT 8
 ) AS TOP_SALES;
+
 
 
