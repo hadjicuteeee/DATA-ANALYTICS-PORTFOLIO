@@ -1,6 +1,6 @@
 select * 
 	from customers
-	where location in ("laguna", "manila");
+	 where location in ("laguna", "manila");
     
 
 select product_name, price from products
