@@ -1,1 +1,27 @@
-This project demonstrates how to ingest, transform, and analyze JSON data in Snowflake. It includes sample orders and customer data stored in JSON format and shows how to flatten nested JSON arrays, compute revenue metrics, and calculate running totals.
+This project demonstrates how to ingest, transform, and analyze JSON data in Snowflake.
+It includes sample orders and customer data stored in JSON format and shows how to flatten nested JSON arrays, 
+compute revenue metrics, and calculate running totals.
+
+Features
+Data Ingestion:
+-JSON-formatted orders and customer information.
+Data Transformation:
+-Flatten nested JSON arrays for items per order.
+-Join orders with customer details to create a structured table.
+Analytics:
+-City-level total revenue (city_revenue).
+-Daily running revenue per product (date_sales).
+-Monthly revenue and cumulative monthly revenue (monthly_sales).
+SQL Script Structure
+-tbl1: Sample orders JSON data.
+-tbl2: Sample customer JSON data.
+-flatten1: Flattened table joining orders and customer data.
+-city_revenue: Aggregated revenue by city.
+-date_sales: Daily running revenue per product.
+-monthly_sales: Monthly revenue and cumulative monthly revenue.
+
+How to Run
+-Open Snowflake Worksheet.
+-Copy the SQL script json_sales_analytics_snowflake.sql into your worksheet.
+-Execute the script.
+-Query any of the CTEs (city_revenue, date_sales, monthly_sales) to view results.
