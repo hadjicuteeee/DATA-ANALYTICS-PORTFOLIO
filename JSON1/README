@@ -1,1 +1,1 @@
-
+This project demonstrates how to ingest, transform, and analyze JSON data in Snowflake. It includes sample orders and customer data stored in JSON format and shows how to flatten nested JSON arrays, compute revenue metrics, and calculate running totals.
